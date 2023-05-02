@@ -23,13 +23,13 @@ This project uses Spacy, T5-base, and NLTK to paraphrase text and score the outp
 
 The code provides various modes and temperature options to customize the paraphrasing output.
 
-# Mode options:
+## Mode options:
    - Standard
    - Fluency
    - Formal
    - Simple
 
-# Synonym (temperature) options:
+## Synonym (temperature) options:
    - Few
    - Standard
    - Many
